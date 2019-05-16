@@ -110,6 +110,7 @@ public class PersonOverviewController {
     private void handleDeletePerson() {
         int selectedIndex = personTable.getSelectionModel().getSelectedIndex();
         if (selectedIndex >= 0) {
+        	// alerte de confirmation avant de supprimer un élément de la liste
         	Alert alert1 = new Alert(AlertType.CONFIRMATION);
             alert1.initOwner(mainApp.getPrimaryStage());
             alert1.setTitle("Suppression");
@@ -117,6 +118,7 @@ public class PersonOverviewController {
             alert1.setContentText("Confirmer");
 
             Optional<ButtonType> result = alert1.showAndWait();
+            // Si bouton Ok clické, on supprime, sinon rien
             if (result.get() == ButtonType.OK)
         	{
             	personTable.getItems().remove(selectedIndex);
