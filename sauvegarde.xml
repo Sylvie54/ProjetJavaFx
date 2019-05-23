@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <persons>
     <person>
-        <birthday/>
+        <birthday>1999-02-21</birthday>
         <city>some city</city>
         <firstName>Hans</firstName>
         <lastName>Muster</lastName>
@@ -9,7 +9,7 @@
         <street>some street</street>
     </person>
     <person>
-        <birthday/>
+        <birthday>1999-02-21</birthday>
         <city>some city</city>
         <firstName>Ruth</firstName>
         <lastName>Mueller</lastName>
@@ -17,7 +17,7 @@
         <street>some street</street>
     </person>
     <person>
-        <birthday/>
+        <birthday>1999-02-21</birthday>
         <city>some city</city>
         <firstName>Heinz</firstName>
         <lastName>Kurz</lastName>
@@ -25,7 +25,7 @@
         <street>some street</street>
     </person>
     <person>
-        <birthday/>
+        <birthday>1999-02-21</birthday>
         <city>some city</city>
         <firstName>Cornelia</firstName>
         <lastName>Meier</lastName>
@@ -33,7 +33,7 @@
         <street>some street</street>
     </person>
     <person>
-        <birthday/>
+        <birthday>1999-02-21</birthday>
         <city>some city</city>
         <firstName>Werner</firstName>
         <lastName>Meyer</lastName>
@@ -41,7 +41,7 @@
         <street>some street</street>
     </person>
     <person>
-        <birthday/>
+        <birthday>1999-02-21</birthday>
         <city>some city</city>
         <firstName>Lydia</firstName>
         <lastName>Kunz</lastName>
@@ -49,7 +49,7 @@
         <street>some street</street>
     </person>
     <person>
-        <birthday/>
+        <birthday>1999-02-21</birthday>
         <city>some city</city>
         <firstName>Anna</firstName>
         <lastName>Best</lastName>
@@ -57,7 +57,7 @@
         <street>some street</street>
     </person>
     <person>
-        <birthday/>
+        <birthday>1999-02-21</birthday>
         <city>some city</city>
         <firstName>Stefan</firstName>
         <lastName>Meier</lastName>
@@ -65,19 +65,11 @@
         <street>some street</street>
     </person>
     <person>
-        <birthday/>
+        <birthday>1999-02-21</birthday>
         <city>some city</city>
         <firstName>Martin</firstName>
         <lastName>Mueller</lastName>
         <postalCode>4321</postalCode>
         <street>some street</street>
-    </person>
-    <person>
-        <birthday/>
-        <city>Nancy</city>
-        <firstName>essai</firstName>
-        <lastName>prenomEssai</lastName>
-        <postalCode>54000</postalCode>
-        <street>laRue</street>
     </person>
 </persons>
